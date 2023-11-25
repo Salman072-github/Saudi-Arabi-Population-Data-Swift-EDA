@@ -1,4 +1,4 @@
-# Saudi-Arabi-Population-Data-Swift-EDA
+# Beyond Numbers: A swift EDA of Saudi Arabia's Population dataset
 This repo includes a detailed EDA of the KSA population.
 
 
